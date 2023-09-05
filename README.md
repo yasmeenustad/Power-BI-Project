@@ -41,7 +41,7 @@ Power BI is a Microsoft-developed business analytics tool that enables users to 
 
 ### iii. Dashboard
 <div id="header" align="center">
-   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/d2bfef59-91a6-4268-99d8-57f70f79b4c4"  height="500" width="800"/>
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/d2bfef59-91a6-4268-99d8-57f70f79b4c4"  height="450" width="800"/>
 </div>
 
 
