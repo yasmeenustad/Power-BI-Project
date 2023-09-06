@@ -19,6 +19,15 @@ In this repository, harnessed the power of various datasets to construct a dynam
    <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/d2bfef59-91a6-4268-99d8-57f70f79b4c4"  height="450" width="800"/>
 </div>
 
+## 2. Summer Olympics Analysis:-
+### i. Description:
+  - This dataset encompasses a comprehensive collection of data related to the Summer Olympics, encompassing key variables such as Year, City, Sport, Discipline, Athlete, Country, Gender, Event, and Medal. 
+
+### ii. Dashboard:
+<div id="header" align="center">
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/d2bfef59-91a6-4268-99d8-57f70f79b4c4"  height="450" width="800"/>
+</div>
+
 
 
 
