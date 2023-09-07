@@ -35,9 +35,8 @@ In this repository, harnessed the power of various datasets to construct a dynam
 
 ### iii. Insights:
 <div id="header" align="center">
-   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/b2534f69-45be-49b1-8755-a9f3278d96d6"  height="450" width="800"/>
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/81508614-faf2-4732-912d-2fc7e6c84a45"  height="450" width="800"/>
 </div>
-
 
 
 
