@@ -24,7 +24,7 @@ In this repository, harnessed the power of various datasets to construct a dynam
 
 ### iii. Insights:
 <div id="header" align="center">
-   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/3a34c1fc-0be0-44a5-9acd-0b3ad34b0f50"  height="450" width="800"/>
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/94dc5634-acdc-4bc4-b7ea-4fc34526393e"  height="450" width="800"/>
 </div>
 
 ## 2. Summer Olympics Analysis:-
