@@ -9,6 +9,9 @@ Power BI is a Microsoft-developed business analytics tool that enables users to 
 
 In this repository, harnessed the power of various datasets to construct a dynamic and interactive dashboard. This dashboard serves as a platform for uncovering valuable insights and trends within the data, enabling informed decision-making. By integrating diverse datasets, created a holistic view of critical metrics and emerging patterns. This resource is designed to empower users with the ability to explore data dynamically and extract meaningful insights to enhance their understanding and decision-making processes.
 
+- In this repository, you can find different folders dedicated to the analysis of various datasets.
+- Within each dataset folder, you'll discover subfolders containing Dashboards, Insights, Power BI files, and the datasets used for the analysis.
+
 ## 1. Stroke Data Analysis:-
 ### i. Description:
   - This dataset is a valuable resource for assessing stroke risk in patients based on critical input parameters, including Gender, Age, Hypertension, Heart disease, Marital status, Occupation, Residence type, Average 
