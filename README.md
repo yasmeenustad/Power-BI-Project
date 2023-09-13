@@ -12,6 +12,9 @@ In this repository, harnessed the power of various datasets to construct a dynam
 - In this repository, you can find different folders dedicated to the analysis of various datasets.
 - Within each dataset folder, you'll discover subfolders containing Dashboards, Insights, Power BI files, and the datasets used for the analysis.
 
+##  <img src="https://github.com/yasmeenustad/Placements-Data-Analysis-Excel-Project/assets/112754746/030e1f21-e04f-4cbd-b301-3576c8c1acc3"  width="48" height="48"> Aim:
+The project's primary aim is to conduct data visualization and build a dynamic dashboard in Power BI by leveraging diverse datasets. The ultimate goal is to extract meaningful insights from the data, facilitating informed decision-making and a deeper understanding of relevant trends and patterns.
+
 ## 1. Stroke Data Analysis:-
 ### i. Description:
   - This dataset is a valuable resource for assessing stroke risk in patients based on critical input parameters, including Gender, Age, Hypertension, Heart disease, Marital status, Occupation, Residence type, Average 
