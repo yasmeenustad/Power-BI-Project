@@ -5,7 +5,7 @@ Power BI is a Microsoft-developed business analytics tool that enables users to 
     <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/1c147198-138c-4ed2-a5ef-7b6da9b95d6b"  height="350" width="800"/>
 </div>
 
-## From Datasets to Dashboards: A Journey of Data-Driven Insights:
+##  <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/f486b582-c358-4e18-bf2b-cddf90124cb0"  width="48" height="48"> From Datasets to Dashboards: A Journey of Data-Driven Insights:
 
 In this repository, harnessed the power of various datasets to construct a dynamic and interactive dashboard. This dashboard serves as a platform for uncovering valuable insights and trends within the data, enabling informed decision-making. By integrating diverse datasets, created a holistic view of critical metrics and emerging patterns. This resource is designed to empower users with the ability to explore data dynamically and extract meaningful insights to enhance their understanding and decision-making processes.
 
@@ -44,6 +44,26 @@ The project's primary aim is to conduct data visualization and build a dynamic d
    <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/81508614-faf2-4732-912d-2fc7e6c84a45"  height="450" width="800"/>
 </div>
 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
 
+- **Crafting a Comprehensive Dashboard:**
+
+    - Designing a user-friendly and informative dashboard layout.
+    - Ensuring data visualization elements effectively convey key information.
+    - Creating an interactive interface for seamless exploration.
+  
+- **Deriving Meaningful Insights:**
+
+    - Analyzing complex datasets to uncover valuable trends and patterns.
+    - Identifying actionable insights that inform decision-making.
+    - Ensuring the extracted insights are relevant and impactful.
+ 
+## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/2e256cec-1421-4c5f-9913-052a53dc470f" width="70" height="50"> Learnings:
+
+- **Dynamic and Interactive Design:**
+    - The mention of a dynamic and interactive dashboard highlights the significance of user-friendly design. Learning how to design and develop such interfaces can greatly enhance the user experience and engagement.
+
+- **Informed Decision-Making:**
+    - The ultimate goal is to enable informed decision-making. This underscores the importance of not just data collection and visualization but also deriving actionable insights from the data.
 
 
