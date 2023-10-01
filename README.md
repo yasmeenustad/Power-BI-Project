@@ -44,6 +44,10 @@ The project's primary aim is to conduct data visualization and build a dynamic d
    <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/81508614-faf2-4732-912d-2fc7e6c84a45"  height="450" width="800"/>
 </div>
 
+## 3. Amazon Sales Data Analysis:-
+### i. Description:
+  - This dataset comprises comprehensive records of Amazon sales throughout the year 2022, encompassing essential variables like Order ID, Product Category, Fulfillment details, Purchase Amount, Quantity, Ship-State, and Ship-City.
+
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
 
 - **Crafting a Comprehensive Dashboard:**
