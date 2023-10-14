@@ -64,12 +64,12 @@ The project's primary aim is to conduct data visualization and build a dynamic d
 
 ### ii. Dashboard:
 <div id="header" align="center">
-   <img src="[https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/e518bd63-9b81-4b44-bb44-a654e9e9fbff](https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/b67a746c-e5f8-46d2-8f85-4e76127aa3b3)"  height="450" width="800"/>
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/b67a746c-e5f8-46d2-8f85-4e76127aa3b3"  height="450" width="800"/>
 </div>
 
 ### iii. Insights:
 <div id="header" align="center">
-   <img src="[https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/fa1062c5-ca9d-4c2b-9e5d-b91a74c8df01](https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/13153fba-752d-4ada-a598-41f41f4bf495)"  height="450" width="800"/>
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/13153fba-752d-4ada-a598-41f41f4bf495"  height="450" width="800"/>
 </div>
 
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
