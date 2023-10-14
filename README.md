@@ -60,7 +60,7 @@ The project's primary aim is to conduct data visualization and build a dynamic d
 
 ## 4. Indian Food Data Analysis:-
 ### i. Description:
-  - This dataset comprises comprehensive records of Amazon sales throughout the year 2022, encompassing essential variables like Order ID, Product Category, Fulfillment details, Purchase Amount, Quantity, Ship-State, and Ship-City.
+  - This dataset comprises comprehensive records of Indian foods, encompassing essential variables like Dish name, State, Diet (Veg and Non-veg), Region, Courses, Preparation time, Cook time, Ingredients, and Flavor.
 
 ### ii. Dashboard:
 <div id="header" align="center">
