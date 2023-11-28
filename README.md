@@ -72,6 +72,20 @@ The project's primary aim is to conduct data visualization and build a dynamic d
    <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/13153fba-752d-4ada-a598-41f41f4bf495"  height="450" width="800"/>
 </div>
 
+## 4. 2020 : Covid Data Analysis:-
+### i. Description:
+  - This dataset comprises comprehensive records of 2020 Covid-19, encompassing essential variables like Country/Region, Date, WHO Region, Death Cases, Recovered Cases, Active Cases, Confirmed Cases, Longitude, and Latitude.
+
+### ii. Dashboard:
+<div id="header" align="center">
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/c3fd3e51-9909-4480-a95d-2a2525eb8539"  height="450" width="800"/>
+</div>
+
+### iii. Insights:
+<div id="header" align="center">
+   <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/8faf6dea-74bf-4ba3-8be0-cbada0b4a568"  height="450" width="800"/>
+</div>
+
 ## <img src="https://github.com/yasmeenustad/Swiggy-data-Analysis/assets/112754746/603ad77e-2212-4b07-a75a-ffcabb0538f4" width="70" height="50"> Challenges:
 
 - **Crafting a Comprehensive Dashboard:**
