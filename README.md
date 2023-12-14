@@ -2,7 +2,7 @@
 Power BI is a Microsoft-developed business analytics tool that enables users to visualize and analyze data from various sources, create interactive reports and dashboards, and share insights within organizations.
 
 <div id="header" align="center">
-    <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/1c147198-138c-4ed2-a5ef-7b6da9b95d6b"  height="350" width="800"/>
+    <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/1c147198-138c-4ed2-a5ef-7b6da9b95d6b"  height="350" width="700"/>
 </div>
 
 ##  <img src="https://github.com/yasmeenustad/Power-BI-Project/assets/112754746/f486b582-c358-4e18-bf2b-cddf90124cb0"  width="48" height="48"> From Datasets to Dashboards: A Journey of Data-Driven Insights:
